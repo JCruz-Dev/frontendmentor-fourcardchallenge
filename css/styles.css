@@ -36,7 +36,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 header {
-    --margin-total-top: 6rem;
+    --margin-total-top: 5rem;
     --margin-total-bottom: 6rem;
     margin-top: var(--margin-total-top);
     margin-bottom: var(--margin-total-bottom);
@@ -60,6 +60,7 @@ p {
     font-size: 1.7rem;
     font-weight: var(--light);
     margin-bottom: 1rem;
+    color: var(--grays-blue);
 }
 .title-content-main {
     margin-top: 0;
