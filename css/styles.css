@@ -60,7 +60,7 @@ p {
     font-size: 1.7rem;
     font-weight: var(--light);
     margin-bottom: 1rem;
-    color: var(--grays-blue);
+    color: var(--blue-darker);
 }
 .title-content-main {
     margin-top: 0;
